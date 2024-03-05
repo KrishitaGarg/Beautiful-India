@@ -16,4 +16,5 @@ Hence, our paramount goal is to promote Indian culture and tradition, particular
 
 ## Tools and Technologies Used:
 Our website is developed using HTML, CSS, and Javascript, ensuring a seamless and interactive user experience. The website is designed to be responsive, adapting to various devices for widespread accessibility.
-![Screenshot (283)](https://github.com/KrishitaGarg/Diverse-India/assets/140257037/a5d3254b-9dcf-4326-b1b8-2ad0994f8ba8)
+
+![Screenshot (285)](https://github.com/KrishitaGarg/Diverse-India/assets/140257037/7438626b-4716-433a-9577-ab842f5c17b3)
